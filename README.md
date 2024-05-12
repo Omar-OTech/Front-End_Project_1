@@ -1,6 +1,6 @@
 # This Front-End Project
 
-[<span style="text-decoration: none; color: white; font-style: italic; font-weight: bold;">Website</span>](https://pop2323.github.io/Front-End_Project_1/)
+[<a style="text-decoration: none; color: white; font-style: italic; font-weight: bold;">Website</a>](https://pop2323.github.io/Front-End_Project_1/)
 
 ---
 
